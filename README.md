@@ -27,7 +27,7 @@ All operations are performed in memory (no file handling yet). The project is fo
 
 ## 🔽 How to Run
 
-1. Copy the code from `bank_management.cpp`
+1. Copy the code from `Bank-Management-System.cpp`
 2. Compile and run using any modern C++ IDE (Code::Blocks, Dev C++, OnlineGDB)
 3. Follow the on-screen menu prompts
 
